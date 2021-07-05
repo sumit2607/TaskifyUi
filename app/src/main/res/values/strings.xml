@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Taskify</string>
+    <string name="your_string"><u>Forgot Your Password?</u></string>
+    <string name="your_string_1"><u>Login</u></string>
+    <string name="create_new_task">Create New Task</string>
+    <string name="date">Date</string>
+    <string name="completed">Completed</string>
+    <string name="apply_changes">Apply Changes</string>
+    <string name="task_status">Task Status</string>
+    <string name="_24_march_2021">24 March 2021</string>
+    <string name="delete_task">Delete Task</string>
+
+    <string name="pending">Pending</string>
+    <string name="webinar_on_gradle_api">Webinar on Gradle API</string>
+
+    <string name="task_title">Task Title</string>
+
+    <string name="task_description">Task Description</string>
+    <string name="profile">Profile</string>
+    <string name="abcdxyz_gmail_com">abcdxyz@gmail.com</string>
+</resources>
